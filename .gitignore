@@ -5,3 +5,5 @@ visualizations
 statistics
 gurobi.log
 .DS_Store
+
+*.egg-info
