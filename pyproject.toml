@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=64.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pddlstream"
+version = "0.0.1"
+description = "PDDLStream"
+readme = "README.md"
+requires-python = ">=3.6"
+license = {file = "LICENSE"}
+
+[tool.setuptools]
+packages = ["pddlstream"] 

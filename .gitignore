@@ -7,3 +7,5 @@ gurobi.log
 .DS_Store
 
 *.egg-info
+
+build/
